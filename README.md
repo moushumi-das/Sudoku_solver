@@ -16,3 +16,4 @@ I have used this principle of backtracking to built this Sudoku solver.
     
     
     
+![](./Sudoku_solver_output.png)
