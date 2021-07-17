@@ -14,6 +14,5 @@ I have used this principle of backtracking to built this Sudoku solver.
     3. Once the board is full by the definition of this algorithm we have found a solution.
     
     
-    
-    
 ![](./Sudoku_solver_output.png)
+![]()
