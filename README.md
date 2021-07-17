@@ -15,4 +15,4 @@ I have used this principle of backtracking to built this Sudoku solver.
     
     
 ![](Sudoku_solver_output.png)
-![]()
+![](https://github.com/moushumi-das/Sudoku_solver/blob/main/Sudoku_solver_output.PNG)
